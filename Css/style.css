@@ -19,6 +19,10 @@
   background-color: #5f5f5f;
 }
 
+section {
+  padding-top: 5rem;
+}
+
 /* Button sosmed */
 .button-container {
   display: flex;
@@ -92,6 +96,4 @@
 
 /* Button sosmed end */
 
-section {
-  padding-top: 5rem;
-}
+
